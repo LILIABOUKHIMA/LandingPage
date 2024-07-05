@@ -10,11 +10,11 @@ const Hero = () => {
 <p className='text-center pt-6 text-[#36485C] lg:text-[18px] lg:leading-7'>Get a birds eye view with our customizable dashboard. Stay on top of things! Revamp your work process with our game-changing feature. Boost productivity and efficiency!</p>
 
 <div className='   flex w-full justify-center h-[200px]  gap-x-6 pt-8   '>
-<button className='bg-[#4328EB] h-[60px]  px-4 py-4 w-1/2 lg:w-1/5 text-white border-2 hover:border-[#4328EB]  hover:text-black rounded-md hover:bg-white  '>
+<button className='bg-[#4328EB] h-[60px]  px-4 py-4 w-1/2 lg:w-1/3 text-white border-2 hover:border-[#4328EB]  hover:text-black rounded-md hover:bg-white  '>
             Try for free
           </button>
 
-<button className='text-[#4328EB]  h-[60px] py-4   px-4 w-1/2 lg:w-1/5 flex items-center justify-center gap-x-2 border-2 border-[#36485C] rounded-md  hover:bg-black hover:text-white'>
+<button className='text-[#4328EB]  h-[60px] py-4   px-4 w-1/2 lg:w-1/3 flex items-center justify-center gap-x-2 border-2 border-[#36485C] rounded-md  hover:bg-black hover:text-white'>
 View pricing <span><Image alt='Button arrow' src={'/assets/blue-button.svg'} width={26} height={26}/></span>
 </button>
 </div>
