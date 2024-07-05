@@ -7,7 +7,7 @@ const Hero = () => {
 <div className="  w-full items-center justify-between px-[20px] xl:px-[480px] lg:px-[280px] md:px-[100px] py-[16px] ">
 <h1 className='text-center text-[32px] leading-10 font-medium text-[#172026] lg:text-[64px] lg:leading-[72px]'>Start monitoring your website like a pro</h1>
 
-<p className='text-center pt-6 text-[#36485C] lg:text-[18px] lg:leading-7'>Get a bird's eye view with our customizable dashboard. Stay on top of things! Revamp your work process with our game-changing feature. Boost productivity and efficiency!</p>
+<p className='text-center pt-6 text-[#36485C] lg:text-[18px] lg:leading-7'>Get a birds eye view with our customizable dashboard. Stay on top of things! Revamp your work process with our game-changing feature. Boost productivity and efficiency!</p>
 
 <div className='   flex w-full justify-center h-[200px]  gap-x-6 pt-8   '>
 <button className='bg-[#4328EB] h-[60px]  px-4 py-4 w-1/2 lg:w-1/5 text-white border-2 hover:border-[#4328EB]  hover:text-black rounded-md hover:bg-white  '>
